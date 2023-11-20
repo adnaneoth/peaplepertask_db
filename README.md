@@ -8,6 +8,7 @@ Les Tableax dans base de donne
         Freelances: Information repository for freelancers.
         Offres: Records offers made by freelancers for specific projects.
         Témoignages: Stores user testimonials.
+        
 
  Database Structure
         The database structure and relationships among tables are depicted in the /diagrams directory through UML diagrams.
